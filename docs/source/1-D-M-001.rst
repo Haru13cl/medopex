@@ -1,0 +1,137 @@
+Dernière Version : 01/12/2018
+
+.. _h553c5ea4117612291579681b784858:
+
+Généralité
+**********
+
+* Les hémorragies sont la première cause de décès évitables ;
+
+* Il faut traquer méticuleusement toutes les hémorragies pour les arrêter ;
+
+* On distingue trois types d’hémorragies :
+
+    * Les hémorragies garrotables et /ou compressibles (hémorragies des membres), sur lesquelles tous les sauveteurs ont une action potentielle ;
+
+    * Les hémorragies \ |STYLE0|\  garrotables mais compressibles (hémorragies jonctionnelles, du scalp, épistaxis), qui seront prises en charge au moins au nid de blessés (ouverture de la TIC) ou au point de regroupement des blessés (ouverture des sacs médicaux);
+
+    * Enfin les hémorragies qui ne sont ni garrotables ni compressibles (thorax, abdomen, bassin), qui doivent être évacuées le plus rapidement possible pour une prise en charge chirurgicale.
+
+.. _h13236b2964f6f6c746f1f522c4c375d:
+
+Objectif
+********
+
+* Contrôler les hémorragies est l’action prioritaire du sauveteur.
+
+.. _h645d7b7a37545a784d22674c4e1b6755:
+
+Actions à mener
+***************
+
+* \ |STYLE1|\ 
+
+    * Stopper immédiatement les hémorragies visibles. Pas de déshabillage ;
+
+    * La pose du garrot tactique ou de fortune par le blessé lui-même ou par un camarade est la seule action potentiellement réalisable sous le feu (Cf. 1. FT.M.01, 02) ;
+
+    * En dehors des actions de feux, on débutera par une compression manuelle directe relayée immédiatement par un pansement compressif ou un garrot tactique si nécessaire ;
+
+    * Se protéger dès que possible en remplaçant les gants de combat par des gants de soins à usage unique ;
+
+    * Ensuite il va être nécessaire de chercher les autres hémorragies et agir en conséquence, par étape afin d’être en sécurité ;
+
+* \ |STYLE2|\ 
+
+    * Le blessé est laissé dans la position dans laquelle il se sent le mieux (généralement allongé)
+
+    * Vérifier l’efficacité des garrots qui ont été posés ; resserrer ou rajouter un garrot si insuffisant ;
+
+    * Déséquiper sommairement le blessé si le contexte le permet ;
+
+    * Chercher les hémorragies compressibles dans les zones difficiles (tête, plis aisselles et aines, thorax, abdomen, bassin, dos) en étant méthodique, examen de la tête aux pieds ou des pieds à la tête ;
+
+    * Les compressions manuelles directes seront relayées par la mise en place les pansements compressifs, associés ou non à du packing simple ou hémostatique de plaie (Cf. 1. FT.M.04, 05, 06, 07, 12) ;
+
+    * Stabiliser le pelvis (Cf. 1. FT.M.09) ;
+
+* \ |STYLE3|\ 
+
+    * Déshabiller totalement le blessé (puis le recouvrir dès que possible) ;
+
+    * Vérifier à nouveau l’efficacité des garrots ou des pansements mise en place ;
+
+    * Se poser la question de la conversion du garrot (Cf. 1. FT.M.08) ;
+
+    * Mettre en place des moyens plus élaborés : garrot pneumatique DELFI® (Cf. 1. FT.M.03), Sam Junctionnal Tourniquet® (Cf. 1. FT.M.10) ;
+
+    * Réaliser si besoin la suture du cuir chevelu (Cf. 1. FT.M.11) ;
+
+    * Contrôler les épistaxis (Cf. 1. FT.M.13) ;
+
+* Si l’hémorragie est non garrotable non compressible : le blessé doit être évacué le plus vite possible vers une structure chirurgicale (ROLE 2).
+
+.. _h121d662e43716c56287956a9124426:
+
+Point Clés
+**********
+
+* Laisser le blessé dans la position dans laquelle, il se sent le mieux ;
+
+* La pose du garrot est le seul geste qui peut être réalisé sous le feu ;
+
+* Etre méthodique pour ne pas passer à côté d’une hémorragie ;
+
+* Le bon geste par le bon sauveteur au bon moment :
+
+
++-------------------------+--------------------------------+-----------+
+|Sous le feu              |Pose du garrot tactique         |SC1 SC2 SC3|
++-------------------------+--------------------------------+-----------+
+|Nid de blessés           |Pose du garrot de fortune       |SC1 SC2 SC3|
++-------------------------+--------------------------------+-----------+
+|                         |Compression manuelle directe    |SC1 SC2 SC3|
++-------------------------+--------------------------------+-----------+
+|                         |Pansement compressif d’urgence  |SC1 SC2 SC3|
++-------------------------+--------------------------------+-----------+
+|                         |Packing de plaie                |SC2 SC3    |
++-------------------------+--------------------------------+-----------+
+|                         |Pansement Olaes®                |SC2 SC3    |
++-------------------------+--------------------------------+-----------+
+|                         |Pansement H-Bandage®            |SC2 SC3    |
++-------------------------+--------------------------------+-----------+
+|                         |Pansement hémostatique QuikClot®|SC2 SC3    |
++-------------------------+--------------------------------+-----------+
+|                         |Ceinture pelvienne              |SC2 SC3    |
++-------------------------+--------------------------------+-----------+
+|Point de regroupement des|Sam Junctionnal Tourniquet®     |SC3        |
+|                         |                                |           |
+|blessés                  |                                |           |
+|                         |                                |           |
++-------------------------+--------------------------------+-----------+
+|                         |Garrot pneumatique              |SC3        |
++-------------------------+--------------------------------+-----------+
+|                         |Conversion du garrot tactique   |SC3        |
++-------------------------+--------------------------------+-----------+
+|                         |Plaie du Cuir chevelu           |SC3        |
++-------------------------+--------------------------------+-----------+
+|                         |Contrôle des Epistaxis          |SC3        |
++-------------------------+--------------------------------+-----------+
+
+\ |IMG1|\ 
+
+
+.. bottom of content
+
+
+.. |STYLE0| replace:: **non**
+
+.. |STYLE1| replace:: **Sur le site de la blessure**
+
+.. |STYLE2| replace:: **Au nid de blessés**
+
+.. |STYLE3| replace:: **Au point de regroupement des blessés :**
+
+.. |IMG1| image:: static/Fiche_C_A_T_-_MASSIVE_BLEEDING__CONTROL_-_1_D_M_1.jpeg
+   :height: 241 px
+   :width: 601 px
