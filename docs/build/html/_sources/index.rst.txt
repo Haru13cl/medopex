@@ -7,10 +7,11 @@ Bienvenue sur Med'Opex!
 =======================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Table des Matières:
 
    1-D-M-001
+   1-FT-M-01
 
 
 
