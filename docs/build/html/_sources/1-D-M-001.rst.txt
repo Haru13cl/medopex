@@ -85,40 +85,7 @@ Point Clés
 * Le bon geste par le bon sauveteur au bon moment :
 
 
-+-------------------------+--------------------------------+-----------+
-|Sous le feu              |Pose du garrot tactique         |SC1 SC2 SC3|
-+-------------------------+--------------------------------+-----------+
-|Nid de blessés           |Pose du garrot de fortune       |SC1 SC2 SC3|
-+-------------------------+--------------------------------+-----------+
-|                         |Compression manuelle directe    |SC1 SC2 SC3|
-+-------------------------+--------------------------------+-----------+
-|                         |Pansement compressif d’urgence  |SC1 SC2 SC3|
-+-------------------------+--------------------------------+-----------+
-|                         |Packing de plaie                |SC2 SC3    |
-+-------------------------+--------------------------------+-----------+
-|                         |Pansement Olaes®                |SC2 SC3    |
-+-------------------------+--------------------------------+-----------+
-|                         |Pansement H-Bandage®            |SC2 SC3    |
-+-------------------------+--------------------------------+-----------+
-|                         |Pansement hémostatique QuikClot®|SC2 SC3    |
-+-------------------------+--------------------------------+-----------+
-|                         |Ceinture pelvienne              |SC2 SC3    |
-+-------------------------+--------------------------------+-----------+
-|Point de regroupement des|Sam Junctionnal Tourniquet®     |SC3        |
-|                         |                                |           |
-|blessés                  |                                |           |
-|                         |                                |           |
-+-------------------------+--------------------------------+-----------+
-|                         |Garrot pneumatique              |SC3        |
-+-------------------------+--------------------------------+-----------+
-|                         |Conversion du garrot tactique   |SC3        |
-+-------------------------+--------------------------------+-----------+
-|                         |Plaie du Cuir chevelu           |SC3        |
-+-------------------------+--------------------------------+-----------+
-|                         |Contrôle des Epistaxis          |SC3        |
-+-------------------------+--------------------------------+-----------+
-
-\ |IMG1|\ 
+|REPLACE1|
 
 
 .. bottom of content
@@ -132,6 +99,23 @@ Point Clés
 
 .. |STYLE3| replace:: **Au point de regroupement des blessés :**
 
-.. |IMG1| image:: static/Fiche_C_A_T_-_MASSIVE_BLEEDING__CONTROL_-_1_D_M_1.jpeg
-   :height: 241 px
-   :width: 601 px
+
+.. |REPLACE1| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="text-align:center;width:30%;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Sous le feu</p></td><td style="text-align:center;width:51%;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Pose du garrot tactique</p></td><td style="text-align:center;width:20%;background-color:#ff0000;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>SC1 SC2 SC3</p></td></tr>
+    <tr><td rowspan="8" style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Nid de blessés</p></td><td style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Pose du garrot de fortune</p></td><td style="text-align:center;background-color:#ff0000;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>SC1 SC2 SC3</p></td></tr>
+    <tr><td style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Compression manuelle directe</p></td><td style="text-align:center;background-color:#ff0000;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>SC1 SC2 SC3</p></td></tr>
+    <tr><td style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Pansement compressif d’urgence</p></td><td style="text-align:center;background-color:#ff0000;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>SC1 SC2 SC3</p></td></tr>
+    <tr><td style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Packing de plaie</p></td><td style="text-align:center;background-color:#ffff00;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>SC2 SC3</p></td></tr>
+    <tr><td style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Pansement Olaes®</p></td><td style="text-align:center;background-color:#ffff00;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>SC2 SC3</p></td></tr>
+    <tr><td style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Pansement H-Bandage®</p></td><td style="text-align:center;background-color:#ffff00;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>SC2 SC3</p></td></tr>
+    <tr><td style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Pansement hémostatique QuikClot®</p></td><td style="text-align:center;background-color:#ffff00;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>SC2 SC3</p></td></tr>
+    <tr><td style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Ceinture pelvienne</p></td><td style="text-align:center;background-color:#ffff00;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>SC2 SC3</p></td></tr>
+    <tr><td rowspan="5" style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Point de regroupement des</p><p>blessés</p><p></td><td style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Sam Junctionnal Tourniquet®</p></td><td style="text-align:center;background-color:#00ff00;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>SC3</p></td></tr>
+    <tr><td style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Garrot pneumatique</p></td><td style="text-align:center;background-color:#00ff00;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>SC3</p></td></tr>
+    <tr><td style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Conversion du garrot tactique</p></td><td style="text-align:center;background-color:#00ff00;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>SC3</p></td></tr>
+    <tr><td style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Plaie du Cuir chevelu</p></td><td style="text-align:center;background-color:#00ff00;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>SC3</p></td></tr>
+    <tr><td style="text-align:center;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Contrôle des Epistaxis</p></td><td style="text-align:center;background-color:#00ff00;vertical-align:Center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>SC3</p></td></tr>
+    </tbody></table>
