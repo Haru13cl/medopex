@@ -43,6 +43,8 @@ Le garrot tactique se pose sur la partie la plus haute (racine) du membre (la cu
 
 #. \ |STYLE9|\  sur le front du blessé avec un marqueur permanent la lettre « T » correspondant à « Tourniquet » qui signifie « garrot » en anglais, ainsi que l’heure de la pose à 4 chiffres (ex 13h23). 
 
+\ |IMG2|\ 	
+
 \ |STYLE10|\  
 
 \ |STYLE11|\ 
@@ -130,3 +132,11 @@ A Retenir :
 .. |IMG1| image:: static/Fiche_FT_-_GARROT_TACTIQUE_-_1_FT_M_1.png
    :height: 342 px
    :width: 368 px
+
+.. |IMG2| image:: static/Fiche_FT_-_GARROT_TACTIQUE_-_1_FT_M_2.png
+   :height: 374 px
+   :width: 256 px
+
+.. |IMG3| image:: static/Fiche_FT_-_GARROT_TACTIQUE_-_1_FT_M_3.png
+   :height: 184 px
+   :width: 256 px
